@@ -1,0 +1,22 @@
+# Dataset folders
+dataset/Test set/
+dataset/Training set/
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Model files (optional - uncomment if you want to ignore these)
+# dataset/model/*.h5
+
+# Cache files
+**/_cached_data.pkl

@@ -85,7 +85,7 @@ The project requires the following main libraries:
 - Seaborn >= 0.12.0
 - pandas >= 2.0.0
 - tqdm >= 4.65.0
-- pyperclip >= 1.8.2 (optional, for clipboard functionality)
+- pyperclip >= 1.8.2
 - gdown >= 4.7.0
 
 ## Usage

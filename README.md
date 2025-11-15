@@ -9,7 +9,7 @@ This project uses a trained CNN model (MobileNetV2-based) to recognize Thai alph
 ## Features
 
 - Real-time hand sign detection using MediaPipe
-- Thai alphabet character recognition (15 classes: ก, ด, ต, น, บ, พ, ฟ, ม, ย, ร, ล, ว, ษ, ห, อ)
+- Thai alphabet character recognition (15 classes: ก, ด, ต, น, บ, พ, ฟ, ม, ย, ร, ล, ว, ส, ห, อ)
 - Webcam interface for live predictions
 - Pre-trained models included
 - Jupyter notebook for training and evaluation
@@ -140,7 +140,7 @@ The model recognizes the following 15 Thai alphabet characters:
 - ร (Ro Ruea)
 - ล (Lo Ling)
 - ว (Wo Waen)
-- ษ (So Rue Si)
+- ส (Sor Suea)
 - ห (Ho Hip)
 - อ (O Ang)
 

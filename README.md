@@ -144,6 +144,16 @@ The model recognizes the following 15 Thai alphabet characters:
 - ห (Ho Hip)
 - อ (O Ang)
 
+## Dataset
+
+The dataset used in this project is sourced from:
+- **Thai Alphabet Hand Sign Dataset**: [Mendeley Data](https://data.mendeley.com/datasets/rknd3wbz42/1)
+
+## References
+
+This project is based on research in Thai sign language recognition:
+- Wongkanya, R., et al. "Thai Alphabet Sign Language Recognition Using Deep Learning" *English Language and Linguistics* 16(5), 2022. [PDF](http://www.icicel.org/ell/contents/2022/5/el-16-05-10.pdf)
+
 ## License
 
 This project is for educational purposes.

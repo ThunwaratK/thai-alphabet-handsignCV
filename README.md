@@ -154,6 +154,9 @@ The dataset used in this project is sourced from:
 This project is based on research in Thai sign language recognition:
 - Wongkanya, R., et al. "Thai Alphabet Sign Language Recognition Using Deep Learning" *English Language and Linguistics* 16(5), 2022. [PDF](http://www.icicel.org/ell/contents/2022/5/el-16-05-10.pdf)
 
+### Project Paper
+- [Thai Alphabet Hand Sign Recognition - Project Paper](https://www.overleaf.com/read/trmnjcbzghhz#81d33c)
+
 ## License
 
 This project is for educational purposes.
